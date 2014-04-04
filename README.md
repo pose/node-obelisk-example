@@ -1,4 +1,4 @@
-# Obelisk.js in Node.js
+## Obelisk.js in Node.js
 
 This example does the following:
 
@@ -11,7 +11,7 @@ Take a look yourslef, an image is worth a thousand words!
  
 ![https://cloud.githubusercontent.com/assets/419703/2586880/6caee458-ba0d-11e3-9c87-e6013a7d0175.gif](https://cloud.githubusercontent.com/assets/419703/2586880/6caee458-ba0d-11e3-9c87-e6013a7d0175.gif)
 
-## License
+### License
 (The MIT License)
 
 Copyright (c) 2014 Alberto Pose < albertopose at gmail.com >
