@@ -1,0 +1,11 @@
+{
+  "name": "node-obelisk-canvas-example",
+  "version": "0.0.1",
+  "description": "Example of how to run obelisk.js in Node.js",
+  "dependencies": {
+    "canvas": "^1.1.3",
+    "iterm2-image": "^0.0.2",
+    "lego-colors": "^0.0.2",
+    "obelisk.js": "^1.0.2"
+  }
+}
