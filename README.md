@@ -7,7 +7,7 @@ This example does the following:
   * Draws that figure inside a [node-canvas](https://github.com/learnboost/node-canvas).
   * If the script is run inside [iTerm2](iterm2.com) draws the image in the console. If not it's saved in a file named `figure.png`
 
-Take a look yourslef, an image is worth a thousand words!
+Take a look by yourself, an image is worth a thousand words!
  
 ![https://cloud.githubusercontent.com/assets/419703/2586880/6caee458-ba0d-11e3-9c87-e6013a7d0175.gif](https://cloud.githubusercontent.com/assets/419703/2586880/6caee458-ba0d-11e3-9c87-e6013a7d0175.gif)
 
