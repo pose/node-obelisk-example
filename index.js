@@ -1,10 +1,11 @@
 var fs = require('fs');
 
-var obelisk = require('./obelisk.wrapper');
+var Canvas = require('canvas');
+
+var obelisk = require('obelisk.js')(Canvas);
 
 var itermDraw = require('iterm2-image');
 var lego = require('lego-colors');
-var Canvas = require('canvas');
 
 var canvas = new Canvas(600,450);
 var ctx = canvas.getContext('2d');
