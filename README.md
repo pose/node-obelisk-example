@@ -2,7 +2,6 @@
 
 This example does the following:
 
-  * Loads [obelisk.js](https://github.com/nosir/obelisk.js) using the `vm` module (unfortunately, obelisk.js not strutured as a Node module yet).
   * Loads a file named `figure` that contains a 3d figure represented as layers: Each layer is separated by the `---` string and the cells of the layer may contain a letter that represents its color. If no letter is present nothing is drawn in that place.
   * Draws that figure inside a [node-canvas](https://github.com/learnboost/node-canvas).
   * If the script is run inside [iTerm2](iterm2.com) draws the image in the console. If not it's saved in a file named `figure.png`
